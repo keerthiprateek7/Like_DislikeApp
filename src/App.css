@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.like-button,
+.dislike-button {
+  margin-top: 40px;
+  margin-right: 20px;
+  padding: 5px 10px;
+  color: #858181;
+}
+
+.liked,
+.disliked {
+  font-weight: bold;
+  color: #1a508d;
+}
